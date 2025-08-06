@@ -1,2 +1,0 @@
-# naitiveade
-agentic document extraction
